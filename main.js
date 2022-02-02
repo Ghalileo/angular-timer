@@ -36,7 +36,7 @@ const createWindow = () => {
 
 app.on('activate', () => {
     // macOS specific close process
-    if(win === null) {
+    if(win === null){
         createWindow()
     }
 })    
