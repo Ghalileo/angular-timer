@@ -1,5 +1,5 @@
 const {app, BrowserWindow} = require('electron');
-
+// Variable that is free to determine the browser window
 let win; 
 
 const createWindow = () => {
