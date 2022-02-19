@@ -24,7 +24,7 @@
   URL
 
   # User Story
-  As a user living in the digital age, I NEED a timer to display on personal streams which I can control all of its functionality.
+  As a user living in the digital age, I WANT a timer to display on personal streams which I can control all of its functionality.
 
   # Contribution 
   Oseghale Ghalileo
@@ -32,4 +32,4 @@
   # License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
  
-  
+
